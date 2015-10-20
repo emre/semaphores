@@ -7,6 +7,7 @@ import time
 # shared count value
 count = 0
 
+
 def thread_finished(current_count=None):
     print "count:", current_count
 
